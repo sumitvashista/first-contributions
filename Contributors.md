@@ -2303,5 +2303,5 @@ nowy wpis
 - [Rajath](https://github.com/SilverDragon12)
 - [Brunda](https://github.com/brundabharadwaj)
 - [silassentinel] (https://github.com/silassentinel)
-
+- [SumitCo] (https://sumitco.im)
 <!-- prettier-ignore-end -->
